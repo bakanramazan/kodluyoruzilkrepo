@@ -1,4 +1,4 @@
-												## 			BASİTÇE GİT (Versiyon Kontrol Sistemi)
+						BASİTÇE GİT (Versiyon Kontrol Sistemi)
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-		### .GİTIGNORE DOSYASI
+	.GİTIGNORE DOSYASI
 
 Projemizdeki;
 
@@ -88,7 +88,7 @@ Gitignore dosyasına hangi dosyaları eklenmememiz gerektiğini bilmiyorsak, int
 
 
 
-		### GİT SERVİSLERİ
+	GİT SERVİSLERİ
 
 ### `GitHub`
 
@@ -104,7 +104,7 @@ Genelde kişisel kullanıma yöneliktir. GitHub tarafındaki açık kaynak proje
 
 
 
-		### README.md DOSYASI
+	README.md DOSYASI
 
 ​	.md(markdown) dısyası kısaca projelerimize açıklayıcı bilgiler eklemeye yarayan kullanışlı ve basit bir dosya tipidir. Basitçe bazı özellikleri mevcuttur. Sadece Githup ta değil diğer dillerle yaptığımız projelerde de kullanabileceğimiz bir dosyadır. ayrıntılı bilgi için;
 
