@@ -30,7 +30,7 @@
 
 
 
-*** git config --list***--> yapılan tüm configrasyon ayarlarını görmek için kullanılan komut.
+***git config --list***--> yapılan tüm configrasyon ayarlarını görmek için kullanılan komut.
 
 
 
